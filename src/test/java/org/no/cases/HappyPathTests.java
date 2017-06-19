@@ -176,8 +176,8 @@ public class HappyPathTests extends BaseTest{
 
     @Test
     @Severity(SeverityLevel.MINOR)
-    @Features("Add to Favourites")
-    @Title("Add to Favourites Test")
+    @Features("Remove from Favourites")
+    @Title("Remove from Favourites Test")
     public void T10RemoveFromFavouritesTest() {
         final int index = 1;
         final String searchPhrase = "word";
