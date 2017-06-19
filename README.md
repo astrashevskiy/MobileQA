@@ -7,7 +7,7 @@
 
 
 execute tests with
-"mvn test" - this will execute tests using SauceLab device farm
+"mvn test" - this will execute tests using SauceLabs device farm
 
 and then to generate allure use
 "mvn site"
