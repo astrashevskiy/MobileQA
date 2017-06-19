@@ -4,3 +4,13 @@
 ## [Documentation](https://astrashevskiy.github.io/MobileQA/)
 
 ## [Test Plan](TestPlan.md)
+
+
+execute tests with
+"mvn test"
+
+and then to generate allure use
+"mvn site"
+
+or all-together
+"mvn clean test site"
